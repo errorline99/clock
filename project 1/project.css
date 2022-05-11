@@ -1,0 +1,176 @@
+.clock {
+
+    background-color: rgba(56, 61, 70, 0.521);
+
+
+    margin: 50px;
+    height: 350px;
+    width: 350px;
+
+    border-radius: 50%;
+    border: 10px solid orange;
+    position: relative;
+}
+
+.secound {
+    background-color: rgb(0, 0, 0);
+
+    border-radius: 10px;
+
+    height: 130px;
+    width: 5px;
+
+    position: absolute;
+    right: 48%;
+    bottom: 50%;
+
+    transform-origin: bottom;
+
+    transform: rotate();
+
+}
+
+.minute{
+    background-color: rgb(0, 0, 0);
+
+    height: 104px;
+    width: 5px;
+
+    border-radius: 10px;
+
+    position: absolute;
+    right: 48%;
+    bottom: 50%;
+
+    transform-origin: bottom;
+
+
+}
+
+.hour{
+    background-color: rgb(0, 0, 0);
+
+    height: 70px;
+    width: 8px;
+
+    border-radius: 10px;
+
+    position: absolute;
+    right: 48%;
+    bottom: 50%;
+
+    transform-origin: bottom;
+
+
+    
+}
+
+.twelve {
+    font-weight: bolder;
+
+    font-size: 1.5em;
+    
+    transform: translate(165px, -290px);
+}
+
+.one {
+    font-weight: bolder;
+
+    font-size: 1.5em;
+    
+    transform: translate(240px, 20px);
+}
+
+
+.two {
+    font-weight: bolder;
+
+    font-size: 1.5em;
+    
+    transform: translate(300px, 50px);
+} 
+
+
+.three {
+    font-weight: bolder;
+
+    font-size: 1.5em;
+    
+    transform: translate(330px, 100px);
+} 
+
+
+.four {
+    font-weight: bolder;
+
+    font-size: 1.5em;
+    
+    transform: translate(315px, 150px);
+
+
+}
+
+
+.five {
+    font-weight: bolder;
+
+    font-size: 1.5em;
+    
+    transform: translate(260px, 185px);
+}
+
+
+.six {
+    font-weight: bolder;
+
+    font-size: 1.5em;
+    
+    transform: translate(179px, 180px);
+}   
+
+
+ .seven {
+    font-weight: bolder;
+
+    font-size: 1.5em;
+    
+    transform: translate(90px, 130px);
+}  
+
+
+ .eight {
+    font-weight: bolder;
+
+    font-size: 1.5em;
+    
+    transform: translate(30px, 50px);
+}   
+
+
+.nine {
+    font-weight: bolder;
+
+    font-size: 1.5em;
+    
+    transform: translate(10px, -60px);
+}  
+
+
+ .ten {
+    font-weight: bolder;
+
+    font-size: 1.5em;
+    
+    transform: translate(30px, -160px);
+}   
+
+
+
+
+ .eleven {
+    font-weight: bolder;
+
+    font-size: 1.5em;
+    
+    transform: translate(90px, -250px);
+}   
