@@ -11,3 +11,6 @@ This is web page is built using HTML CSS and JAVASCRIPT
 
 # OR simply
 * vist https://errorline99.github.io/clock/project%201/
+
+# Note
+* this web page uses the DATE function on javascript 
