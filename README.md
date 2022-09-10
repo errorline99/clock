@@ -13,4 +13,5 @@ This is web page is built using HTML CSS and JAVASCRIPT
 * vist https://errorline99.github.io/clock/project%201/
 
 # Note
-* this web page uses the DATE function on javascript 
+* this web page uses the DATE function on javascript
+* JavaScript will use the browser's time zone to display time
